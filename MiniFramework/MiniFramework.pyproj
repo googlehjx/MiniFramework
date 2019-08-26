@@ -22,6 +22,7 @@
   </PropertyGroup>
   <ItemGroup>
     <Compile Include="MiniFramework.py" />
+    <Compile Include="RedWine\FCLayer_2_0.py" />
     <Compile Include="RedWine\Layer.py" />
     <Compile Include="RedWine\__init__.py">
       <SubType>Code</SubType>
