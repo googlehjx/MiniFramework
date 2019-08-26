@@ -4,8 +4,8 @@
 import math
 from pathlib import Path
 
-from MiniFramework.EnumDef_6_0 import *
-from MiniFramework.Optimizer_1_0 import *
+from RedWine.EnumDef_6_0 import *
+from RedWine.Optimizer_1_0 import *
 
 class WeightsBias_2_1(object):
     def __init__(self, n_input, n_output, init_method, optimizer_name, eta):
