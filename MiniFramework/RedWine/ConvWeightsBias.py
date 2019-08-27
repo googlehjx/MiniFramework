@@ -2,9 +2,9 @@
 # Licensed under the MIT license. See LICENSE file in the project root for full license information.
 
 import math
-from MiniFramework.EnumDef_6_0 import *
-from MiniFramework.WeightsBias_2_1 import *
-from MiniFramework.Optimizer_1_0 import *
+from RedWine.EnumDef_6_0 import *
+from RedWine.WeightsBias_2_1 import *
+from RedWine.Optimizer_1_0 import *
 
 class ConvWeightsBias(WeightsBias_2_1):
     def __init__(self, output_c, input_c, filter_h, filter_w, init_method, optimizer_name, eta):

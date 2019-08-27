@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>d640614c-053d-4ee9-b461-62a673b1ee04</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>MiniFramework.py</StartupFile>
+    <StartupFile>Level1_NumbaTest.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
