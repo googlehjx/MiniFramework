@@ -34,6 +34,7 @@
     <Compile Include="RedWine\Layer.py" />
     <Compile Include="RedWine\LossFunction_1_1.py" />
     <Compile Include="RedWine\Optimizer_1_0.py" />
+    <Compile Include="RedWine\TrainingHistory_3_0.py" />
     <Compile Include="RedWine\utility.py" />
     <Compile Include="RedWine\WeightsBias_2_1.py" />
     <Compile Include="RedWine\__init__.py">
