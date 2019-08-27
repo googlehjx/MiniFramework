@@ -21,6 +21,10 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
+    <Compile Include="Level1_NumbaTest.py" />
+    <Compile Include="Level2_Img2ColTest.py" />
+    <Compile Include="Level4_MnistConvNet.py" />
+    <Compile Include="Level5_Cifar10ConvNet.py" />
     <Compile Include="MiniFramework.py" />
     <Compile Include="RedWine\ActivationLayer.py" />
     <Compile Include="RedWine\BatchNormLayer.py" />
@@ -35,6 +39,7 @@
     <Compile Include="RedWine\jit_utility.py" />
     <Compile Include="RedWine\Layer.py" />
     <Compile Include="RedWine\LossFunction_1_1.py" />
+    <Compile Include="RedWine\NeuralNet_4_2.py" />
     <Compile Include="RedWine\Optimizer_1_0.py" />
     <Compile Include="RedWine\PoolingLayer.py" />
     <Compile Include="RedWine\TrainingHistory_3_0.py" />
