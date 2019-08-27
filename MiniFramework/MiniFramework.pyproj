@@ -22,6 +22,7 @@
   </PropertyGroup>
   <ItemGroup>
     <Compile Include="MiniFramework.py" />
+    <Compile Include="RedWine\ActivationLayer.py" />
     <Compile Include="RedWine\EnumDef_6_0.py" />
     <Compile Include="RedWine\FCLayer_2_0.py" />
     <Compile Include="RedWine\HyperParameters_4_2.py" />
