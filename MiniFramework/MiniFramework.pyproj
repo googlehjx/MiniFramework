@@ -27,6 +27,7 @@
     <Compile Include="RedWine\ClassificationLayer.py" />
     <Compile Include="RedWine\ConvLayer.py" />
     <Compile Include="RedWine\ConvWeightsBias.py" />
+    <Compile Include="RedWine\DataReader_2_0.py" />
     <Compile Include="RedWine\DropoutLayer.py" />
     <Compile Include="RedWine\EnumDef_6_0.py" />
     <Compile Include="RedWine\FCLayer_2_0.py" />
