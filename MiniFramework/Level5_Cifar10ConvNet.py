@@ -3,7 +3,7 @@
 
 import time
 
-from MiniFramework.NeuralNet_4_2 import *
+from RedWine.NeuralNet_4_2 import *
 from ExtendedDataReader.CifarImageDataReader import *
 
 def LoadData():
